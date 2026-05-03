@@ -1,0 +1,5 @@
+variable,coef,p_value,ci_low,ci_high
+const,46.3395,0.0,41.9275,50.7516
+tax_gdp_pct,0.0994,0.0,0.0518,0.147
+log_gdp,1.7059,0.0,1.0444,2.3674
+groupe_OCDE,13.7859,0.0,11.12,16.4519
